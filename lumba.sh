@@ -23,5 +23,5 @@ echo '           Kurulum Bilgileri'
 echo '###########################################'
 echo "   Sunucu adresi: $IP"
 echo 'Kullanıcı adı ve şifreniz putty e giriş yaptığınız bilgilerle aynı.'
-echo 'Bir sorun oluşursa kendi başınıza çözemeye çalışın.'
+echo 'Bir sorun oluşursa kendi başınıza çözmeye çalışın.'
 echo '###########################################'
