@@ -9,5 +9,9 @@ Alttaki kodları kopyalayın ve yapıştırın, ardından enter'a tıklayın. Bu
 
 ### Uyarı ve Notlar
 Script sadece xrdp kurulumu yapmaktadır, yani fazla bir fıtı fıtısı yoktur.
+
 Aslında buna da script denmez, kodları alt alta topladım sadece bu kadar.
+
 Size faydalı olduysam ne mutlu bana, lütfen bir sorun oluşursa kendi başınıza çözemeye çalışın.
+
+**Scripti sadece Ubuntu'da denedim, sizinde Ubuntu kullanmanızı tavsiye ederim.**
