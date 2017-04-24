@@ -4,7 +4,7 @@ Bu script ile Linux sunucunuza Uzak Masaüstü ile bağlantı sağlayabilirsiniz
 ## Nasıl kullanılır?
 Alttaki kodları kopyalayın ve yapıştırın, ardından enter'a tıklayın. Bu kadar :)
 
-`wget 'https://raw.githubusercontent.com/ayelemeze/lumba/master/lumba.sh' chmod 777 lumba.sh && bash ./lumba.sh`
+`bash <(wget -O- --no-check-certificate 'https://raw.githubusercontent.com/ayelemeze/lumba/master/lumba.sh')`
 
 
 ### Uyarı ve Notlar
