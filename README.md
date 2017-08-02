@@ -17,6 +17,7 @@ Size faydalı olduysam ne mutlu bana, lütfen bir sorun oluşursa kendi başın�
 **Scripti sadece Ubuntu'da denedim, sizinde Ubuntu kullanmanızı tavsiye ederim.**
 
 
-#### Güncelleme detayları
+### Güncelleme detayları
 Web browser çalışmıyordu, bunun yerine kurulum kendi içinde Firefox'u kuruyor.
+
 Script bazen çalışmıyordu, sorun giderildi.
