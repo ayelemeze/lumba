@@ -15,3 +15,8 @@ Aslında buna da script denmez, kodları alt alta topladım sadece bu kadar.
 Size faydalı olduysam ne mutlu bana, lütfen bir sorun oluşursa kendi başınıza çözmeye çalışın.
 
 **Scripti sadece Ubuntu'da denedim, sizinde Ubuntu kullanmanızı tavsiye ederim.**
+
+
+#### Güncelleme detayları
+Web browser çalışmıyordu, bunun yerine kurulum kendi içinde Firefox'u kuruyor.
+Script bazen çalışmıyordu, sorun giderildi.
