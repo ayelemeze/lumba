@@ -1,19 +1,6 @@
 #!/bin/sh
-# İP adresi için gerekli kod. #
 IP=$(ip addr | grep 'state UP' -A2 | tail -n1 | awk '{print $2}' | cut -f1  -d'/')
-# Güncelleme yapılıyor. #
-sudo apt-get update
-# xrdp yüklüyor. #
-sudo apt-get install xrdp
-# xfce4 yüklüyor. #
-sudo apt-get install xfce4
-# İngilizcem bitti. #
-echo xfce4-session >~/.xsession
-# Ekrandakileri siliyor. #
-clear && clear
-# xrdp'yi yeniden başlatıyor. #
-sudo service xrdp restart
-# Kurulum bilgileri ekranda gösteriliyor. #
+sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install xrdp -y && sudo apt-get install xfce4 -y && echo xfce4-session >~/.xsession && sudo apt-get install firefox -y && clear && sudo service xrdp restart
 echo 
 echo !!!!!!!!!!!!!!!!!!!!!!!!
 echo !! Kurulum tamamlandı.!!
